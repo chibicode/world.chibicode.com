@@ -1,8 +1,6 @@
 I quit my Silicon Valley job in February 2017 and traveled the world until January 2018. I compiled the best moments in a tweetstorm.
 
-## List of Countries and Cities Visited
-
-**36 Countries** and **94 Cities** outside of the United States.
+## 36 Countries / 94 Cities
 
 1. 🇧🇷 **Brazil**: Rio de Janeiro / São Paulo
 1. 🇧🇴 **Bolivia**: La Paz / Uyuni
@@ -43,7 +41,7 @@ I quit my Silicon Valley job in February 2017 and traveled the world until Janua
 
 Plus 🇹🇼 **Taiwan** (Taipei) which isn’t considered as a country by the United States.
 
-## Tweets
+## 209 Tweets
 
 <blockquote data-conversation="none" class="twitter-tweet"><p lang="und" dir="ltr">At <a href="https://twitter.com/hashtag/RioCarnaval2017?src=hash&amp;ref_src=twsrc%5Etfw">#RioCarnaval2017</a> <a href="https://t.co/TcyDzn8Eqd">pic.twitter.com/TcyDzn8Eqd</a></p>&mdash; Shu Uesugi (@chibicode) <a href="https://twitter.com/chibicode/status/835603023367979010?ref_src=twsrc%5Etfw">February 25, 2017</a></blockquote>
 
