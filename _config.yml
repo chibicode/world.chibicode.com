@@ -2,17 +2,17 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: "Shu Uesugi's World Travel Tweets: Feb 2017 ~ Jan 2018"
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: "http://world.chibicode.com"
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, write:
 #
 # baseurl: nil
-baseurl: "/duo/"
+baseurl: ''
 
 # Twitter IDs
 twitter:
