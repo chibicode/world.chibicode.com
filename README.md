@@ -1,5 +1,3 @@
-I quit my Silicon Valley job in February 2017 and traveled the world until January 2018. I compiled the best moments in a tweetstorm.
-
 ## 36 Countries / 94 Cities
 
 1. 🇧🇷 **Brazil**: Rio de Janeiro / São Paulo
@@ -14,7 +12,7 @@ I quit my Silicon Valley job in February 2017 and traveled the world until Janua
 1. 🇸🇬 **Singapore**
 1. 🇮🇩 **Indonesia**: Jakarta / Yogyakarta / Bali
 1. 🇵🇭 **Philippines**: Cebu / Manila
-1. 🇨🇳 **China**: Shenzhen / Shanghai / Hangzhou / Beijing (and 🇲🇴 Macau, 🇭🇰 Hong Kong)
+1. 🇨🇳 **China**: Shenzhen / Shanghai / Hangzhou / Beijing (and 🇲🇴 Macau / 🇭🇰 Hong Kong)
 1. 🇫🇷 **France**: Paris
 1. 🇬🇧 **United Kingdom**: London / Oxford / St. Andrews / Glasgow / Edinburgh
 1. 🇩🇪 **Germany**: Hamburg / Frankfurt / Munich
@@ -39,7 +37,7 @@ I quit my Silicon Valley job in February 2017 and traveled the world until Janua
 1. 🇦🇪 **United Arab Emirates**: Dubai / Abu Dhabi
 1. 🇯🇵 **Japan**: Tokyo / Kamakura / Nagoya / Ise / Shirakawa-gō and Gokayama / Hida and Takayama / Kyoto / Osaka / Kobe / Wakayama / Naoshima and Inujima / Miyajima / Fukuoka / Okinawa / Tsukuba / Mito / Karuizawa / Toyama / Gotemba
 
-Plus 🇹🇼 **Taiwan** (Taipei) which isn’t considered as a country by the United States.
+(Plus 🇹🇼 **Taiwan** (Taipei) which isn’t considered as a country by the USA.)
 
 ## 209 Tweets
 
